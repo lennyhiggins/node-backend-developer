@@ -19,8 +19,12 @@
  
 		> mongod
 
-4. From within the node-login directory start the server.
+4. From within the node-backend-developer directory start the server.
 
 		> npm start
+
+5. For test with mocha and supertest, and from within the node-backend-developer directory
+
+		> npm test
 		
-5. Open a browser window and navigate to: [http://localhost:3000](http://localhost:3000)
+6. Open a browser window and navigate to: [http://localhost:3000](http://localhost:3000)
